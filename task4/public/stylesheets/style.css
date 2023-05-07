@@ -1,0 +1,31 @@
+* {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  /* background: rgb(247, 175, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(247, 175, 255, 1) 0%,
+    rgba(85, 232, 232, 1) 42%,
+    rgba(174, 188, 238, 1) 77%,
+    rgba(243, 249, 247, 1) 91%
+  ); */
+  font-weight: bold;
+}
+header h1 {
+  color: white;
+  background-color: rgb(31, 177, 128);
+  padding: 10px;
+  border-radius: 5px;
+}
+.container {
+  border-radius: 5px;
+  padding: 10px;
+  border: 2px solid black;
+}
+footer p {
+  padding: 10px;
+
+  background-color: rgb(214, 184, 147);
+}
